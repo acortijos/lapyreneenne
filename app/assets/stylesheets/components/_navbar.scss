@@ -1,0 +1,27 @@
+.navbar-lewagon {
+  justify-content: space-between;
+  background: white;
+}
+
+.navbar-lewagon .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-lewagon .navbar-brand img {
+  width: 40px;
+}
+
+.navbar {
+display: flex;
+padding: 0 1rem;
+justify-content: flex-start;
+align-items: center;
+// border-bottom: solid 1px #E5E5E5;
+height: 50px;
+background-color: #65C7D7;
+}
+
+.icon {
+  color: white;
+  margin: 5px;
+}
